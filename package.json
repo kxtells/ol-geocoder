@@ -1,6 +1,6 @@
 {
   "name": "@kxtells/ol-geocoder",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "A geocoder extension compatible with OpenLayers v7.",
   "author": "Jonatas Walker",
   "homepage": "https://github.com/kirtan-desai/ol-geocoder",
@@ -42,7 +42,6 @@
   "peerDependencies": {
     "ol": ">7.0.0"
   },
-  "dependencies": {},
   "devDependencies": {
     "@babel/eslint-parser": "^7.19.1",
     "@babel/plugin-transform-modules-commonjs": "^7.18.6",
@@ -79,5 +78,9 @@
     "rollup": "^2.79.0",
     "rollup-plugin-terser": "^7.0.2",
     "testcafe": "^2.1.0"
+  },
+  "directories": {
+    "example": "examples",
+    "test": "test"
   }
 }
