@@ -1,17 +1,17 @@
 {
   "name": "@kxtells/ol-geocoder",
-  "version": "5.0.7",
+  "version": "5.0.8",
   "description": "A geocoder extension compatible with OpenLayers v7.",
   "author": "Jonatas Walker",
-  "homepage": "https://github.com/kirtan-desai/ol-geocoder",
+  "homepage": "https://github.com/kxtells/ol-geocoder",
   "license": "MIT",
   "main": "dist/ol-geocoder.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kirtan-desai/ol-geocoder.git"
+    "url": "git://github.com/kxtells/ol-geocoder.git"
   },
   "bugs": {
-    "url": "https://github.com/kirtan-desai/ol-geocoder/issues"
+    "url": "https://github.com/kxtells/ol-geocoder/issues"
   },
   "files": [
     "dist/"
@@ -39,6 +39,7 @@
     "test:unit": "jest",
     "test:unit:watch": "jest --watch"
   },
+  "dependencies": {},
   "peerDependencies": {
     "ol": ">7.0.0"
   },
