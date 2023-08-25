@@ -13,7 +13,9 @@
   </a>
 </p>
 
-A forked version of ol-geocoder compatible with OpenLayers v7. **Requires** OpenLayers **v3.11.0** or higher.
+A forked version from [@kirtandesai](https://github.com/kirtan-desai/ol-geocoder) ol-geocoder compatible with OpenLayers v7. **Requires** OpenLayers **v3.11.0** or higher.
+
+Mostly we had a broken production system and needed a fix for a while so we ended up publishing our own package
 
 ![geocoder anim](https://raw.githubusercontent.com/jonataswalker/ol-geocoder/screenshots/images/anim.gif)
 

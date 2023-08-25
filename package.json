@@ -1,5 +1,5 @@
 {
-  "name": "@kirtandesai/ol-geocoder",
+  "name": "@kxtells/ol-geocoder",
   "version": "5.0.6",
   "description": "A geocoder extension compatible with OpenLayers v7.",
   "author": "Jonatas Walker",
